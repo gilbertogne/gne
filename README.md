@@ -5,6 +5,6 @@ Projetos:
 
 P1 - Hattrick Track n Simulator
 
-P2 - Gaming Tracker
+P2 - Gaming Tracker (PlayerTwoTracker)
 
 P3 - Jobs Applying Tracker
